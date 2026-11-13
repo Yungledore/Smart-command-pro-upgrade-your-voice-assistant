@@ -1,0 +1,1 @@
+for some reason the speech is not working, i already tried fixing it but it didnt work
